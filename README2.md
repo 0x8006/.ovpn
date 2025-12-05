@@ -47,3 +47,9 @@
 - https://github.com/rjrahul24/ai-with-python-series
 - https://github.com/Yucel00/Python-Beginner-Projectss
 - https://github.com/pytorch/examples
+
+
+### Zig
+- https://deepwiki.com/pedropark99/zig-book/5-development-tools
+- https://zig.guide/language-basics/defer
+- ziglang.org
