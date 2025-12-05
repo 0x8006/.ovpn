@@ -52,4 +52,4 @@
 ### Zig
 - https://deepwiki.com/pedropark99/zig-book/5-development-tools
 - https://zig.guide/language-basics/defer
-- ziglang.org
+- https://ziglang.org
